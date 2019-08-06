@@ -1,6 +1,8 @@
 ## Setup
 
 `npm install`
+Setup a MQTT brokeer using mosquitto or another broker
+copy .env.sample to .env and add your credentials for the broker
 
 ## Start
 
