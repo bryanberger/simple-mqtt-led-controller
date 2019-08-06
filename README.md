@@ -1,8 +1,8 @@
 ## Setup
 
-`npm install`
-Setup a MQTT brokeer using mosquitto or another broker
-copy .env.sample to .env and add your credentials for the broker
+- `npm install`
+- Setup a MQTT broker using [mosquitto](https://mosquitto.org/) or another broker.
+- copy `.`env.sample`to`.env` and add your credentials for the broker.
 
 ## Start
 
@@ -10,8 +10,8 @@ copy .env.sample to .env and add your credentials for the broker
 
 ## Live
 
-visit http://localhost:3000
+Visit http://localhost:3000
 
 ## Daemon
 
-Install PM2 and run this in the background
+Install [PM2](http://pm2.keymetrics.io/) and run this in the background
